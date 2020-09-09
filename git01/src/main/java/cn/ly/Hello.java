@@ -6,6 +6,7 @@ public class Hello {
 
         System.out.println("hi");
         System.out.println("123");
+        System.out.println("47777");
         return "hello";
     }
 
