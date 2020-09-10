@@ -1,13 +1,12 @@
 package cn.ly;
 
 public class Hello {
-    public String say(){
+    public void say(){
         System.out.println("hello");
-
         System.out.println("hi");
         System.out.println("123");
         System.out.println("47777");
-        return "hello";
+
     }
 
     public static void main(String[] args) {
