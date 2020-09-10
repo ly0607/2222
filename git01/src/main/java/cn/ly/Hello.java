@@ -13,4 +13,9 @@ public class Hello {
         Hello hello = new Hello();
         hello.say();
     }
+
+    public int test(){
+        int i = 0;
+        return  i++;
+    }
 }
